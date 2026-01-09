@@ -9,8 +9,9 @@
     max-width: 1400px;
     margin: 0 auto;
 }
-.top-home{
+.top-home h4{
     color: #627382;
+    background-color: #001931;
 }
 .navber{
     display: flex;
@@ -70,7 +71,10 @@
     width: 600px;
     margin: 20px auto;
 }
-
+.btn-1 img{
+    padding: 0 auto;
+    text-align: center;
+}
 .btn-1{
     color: #FFFFFF;
     padding: 16px;
@@ -79,6 +83,9 @@
     border-style: none;
     margin-right: 16px;
     font-weight: 600;
+    
+    
+    
 }
 .btn-2{
     background: none;
