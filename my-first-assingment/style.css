@@ -35,6 +35,13 @@
     border-radius: 5px;
     border-style: none;
 }
+.nav-btn:hover{
+    background-color: paleturquoise;
+    cursor: pointer;
+    color: #000000;
+    transform: scale(1.5);
+    transition: 0.5s;
+}
 /* heading-section */
 .heading{
     text-align: center;
