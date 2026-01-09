@@ -6,7 +6,7 @@
 }
 /* navber section */
 #header{
-    max-width: 1400px;
+    
     margin: 0 auto;
 }
 .top-home h4{
@@ -46,7 +46,6 @@
 .heading{
     text-align: center;
     border: 1px solid black;
-    max-width: 1400px;
     padding: 120px 200px;
     background-color: #627382;
     background-image: url(./assets/hero-bg.png);
